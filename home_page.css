@@ -1,0 +1,49 @@
+body{
+	background: url('images/home_page.jpg');
+}
+.menu_welcome{
+	text-align: left;
+	margin-right: 20px;
+	float: left;
+	font-size: 24px;
+	font-family: 'Comic Sans MS';
+}
+.fadeInLeftBig{
+	font-family: 'Comic Sans MS';
+	text-align: center;
+	font-size: 55px;
+	margin-top: 8%;
+	
+}
+.logout{
+	margin-right: 30px;
+	text-align: right; 
+	font-size: 22px;
+	font-family: 'Comic Sans MS';
+}
+.center-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+.row{
+	margin-top: 3%;
+
+	
+}
+.row_text{
+	font-family: 'Comic Sans MS';
+	text-align: center;
+	font-size: 19px;
+	padding: 10px;
+}
+
+.footer{
+	width: 100%;
+	height: 100%;
+	background-color: red;
+	display: block;
+}
